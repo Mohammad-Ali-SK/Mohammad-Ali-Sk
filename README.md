@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali&label=Profile%20views&color=0e75b6&style=flat" alt="ali" /> </p>
+<p align="left"> <img src="https://blog.bsource.com.br/assets/img/programador.gif" alt="ali" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohammad ali sk" target="blank"><img src="https://img.shields.io/twitter/follow/mohammad ali sk?logo=twitter&style=for-the-badge" alt="mohammad ali sk" /></a> </p>
 
